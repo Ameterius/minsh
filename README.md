@@ -32,4 +32,4 @@ a: yes please, the only thing is, don't go beyond this record (RAM Consm.) (???)
 ##### Maintained by author (Ametero)
 | Distro       | Package         | Link |
 |-------------------|----------------|------------|
-| Arch Linux (AUR)  | `minshell`   | -- |
+| Arch Linux (AUR)  | `minsh`   | https://aur.archlinux.org/packages/minsh |
